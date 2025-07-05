@@ -39,7 +39,7 @@ Node.js, Express.js, TypeScript, MongoDB, Mongoose, Dotenv, Nodemon
 ```bash
 git clone Frontend  https://github.com/md-munna-khan/Assignment-4-redux
 git clone Backend   https://github.com/md-munna-khan/B5-A4-Backend
-cd Library-Management-assignment-3
+cd 
 ```
 2. Install Dependencies
 ```bash
