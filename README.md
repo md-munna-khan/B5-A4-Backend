@@ -24,6 +24,12 @@ Node.js, Express.js, TypeScript, MongoDB, Mongoose, Dotenv, Nodemon
 
 ---
 
+## 🌐 Live Site
+
+🔗 [Frontend Live Link](https://redux-assignment-4-munna.vercel.app/books)  
+🔗 [Backend Live Link (if any)](https://redux-assignemnt-4-backend.vercel.app/)
+
+---
 ## Getting Started
 
 ## 📦 Installation & Setup
@@ -31,7 +37,8 @@ Node.js, Express.js, TypeScript, MongoDB, Mongoose, Dotenv, Nodemon
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/md-munna-khan/Library-Management-assignment-3.git
+git clone Frontend  https://github.com/md-munna-khan/Assignment-4-redux
+git clone Backend   https://github.com/md-munna-khan/B5-A4-Backend
 cd Library-Management-assignment-3
 ```
 2. Install Dependencies
